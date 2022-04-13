@@ -2,4 +2,4 @@
 
 import CatchTheCatGame from "./game";
 
-window["CatchTheCatGame"] = CatchTheCatGame;
+window["CatchTheCatGame"] = 抓住这只猫;
